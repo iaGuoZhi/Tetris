@@ -1,0 +1,8 @@
+﻿  Diamond.cpp
+e:\c++\russia_diamonds\russia_diamonds\diamond.cpp(35): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Frame.cpp
+  Tool.cpp
+  Unit.cpp
+  源.cpp
+  正在生成代码...
+  Russia_diamonds.vcxproj -> E:\c++\Russia_diamonds\Debug\Russia_diamonds.exe
